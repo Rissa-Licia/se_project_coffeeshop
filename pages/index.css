@@ -141,3 +141,9 @@ color:white;
     max-width: 438px;
     color: white;
 }
+
+.recipes__iframe {
+    width: 480px;
+    height: 273px;
+    border: 0;
+}

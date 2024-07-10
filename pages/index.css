@@ -250,6 +250,6 @@ line-height: 30px;
 color: #838383
 }
 
-input [type= "checkbox"]: checked + span {
+input [type= "checkbox"]:checked + span {
     background-color: #2f80ed;
 }

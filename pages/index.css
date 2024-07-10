@@ -208,7 +208,7 @@ color:white;
     text-align: center;
     font-family: Inter;
     font-style: normal;
-    font-weight: 500
+    font-weight: 500;
     font-size: 44px;
     line-height: 52px;
 }
@@ -250,6 +250,6 @@ line-height: 30px;
 color: #838383
 }
 
-input [type: "checkbox"]: checked + span {
+input [type= "checkbox"]: checked + span {
     background-color: #2f80ed;
 }
